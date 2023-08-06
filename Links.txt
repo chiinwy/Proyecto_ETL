@@ -1,0 +1,7 @@
+https://en.wikipedia.org/wiki/2012_Formula_One_World_Championship     #esto va a ser scrap de los circuitos de ese año
+
+https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?select=constructors.csv    #esto ha sido bajar los csv de los pilotos
+
+https://soymotor.com/clasificacion-mundial-f1/2012    #esto va a ser scrap de la clasificación final de ese año
+
+https://www.dazn.com/es-ES/news/f%C3%B3rmula-1/como-se-reparten-los-puntos-en-f1/1lrfnerijevkf17w0meq0moi1k  #sistema de puntuación de f1 
