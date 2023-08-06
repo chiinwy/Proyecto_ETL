@@ -1,13 +1,13 @@
-,,Pos,Team,PTS,
-0,,1,Red Bull Racing Renault,460,
-1,,2,Ferrari,400,
-2,,3,McLaren Mercedes,378,
-3,,4,Lotus Renault,303,
-4,,5,Mercedes,142,
-5,,6,Sauber Ferrari,126,
-6,,7,Force India Mercedes,109,
-7,,8,Williams Renault,76,
-8,,9,STR Ferrari,26,
-9,,10,Caterham Renault,0,
-10,,11,Marussia Cosworth,0,
-11,,12,HRT Cosworth,0,
+,,Pos,Team,PTS,,escuderia_id
+0,,1,Red Bull Racing Renault,460,,1
+1,,2,Ferrari,400,,2
+2,,3,McLaren Mercedes,378,,3
+3,,4,Lotus Renault,303,,4
+4,,5,Mercedes,142,,5
+5,,6,Sauber Ferrari,126,,6
+6,,7,Force India Mercedes,109,,7
+7,,8,Williams Renault,76,,8
+8,,9,STR Ferrari,26,,9
+9,,10,Caterham Renault,0,,10
+10,,11,Marussia Cosworth,0,,11
+11,,12,HRT Cosworth,0,,12
