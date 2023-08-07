@@ -1,26 +1,26 @@
-,driverId,code,name,nationality
-0,1,HAM,Lewis Hamilton,British
-1,3,ROS,Nico Rosberg,German
-2,4,ALO,Fernando Alonso,Spanish
-3,5,KOV,Heikki Kovalainen,Finnish
-4,8,RAI,Kimi Räikkönen,Finnish
-5,10,GLO,Timo Glock,German
-6,13,MAS,Felipe Massa,Brazilian
-7,17,WEB,Mark Webber,Australian
-8,18,BUT,Jenson Button,British
-9,20,VET,Sebastian Vettel,German
-10,30,MSC,Michael Schumacher,German
-11,37,DLR,Pedro de la Rosa,Spanish
-12,39,KAR,Narain Karthikeyan,Indian
-13,154,GRO,Romain Grosjean,French
-14,155,KOB,Kamui Kobayashi,Japanese
-15,807,HUL,Nico Hülkenberg,German
-16,808,PET,Vitaly Petrov,Russian
-17,811,SEN,Bruno Senna,Brazilian
-18,813,MAL,Pastor Maldonado,Venezuelan
-19,814,DIR,Paul di Resta,British
-20,815,PER,Sergio Pérez,Mexican
-21,816,DAM,Jérôme d'Ambrosio,Belgian
-22,817,RIC,Daniel Ricciardo,Australian
-23,818,VER,Jean-Éric Vergne,French
-24,819,PIC,Charles Pic,French
+driverId,code,name,nationality
+1,HAM,Lewis Hamilton,British
+3,ROS,Nico Rosberg,German
+4,ALO,Fernando Alonso,Spanish
+5,KOV,Heikki Kovalainen,Finnish
+8,RAI,Kimi Räikkönen,Finnish
+10,GLO,Timo Glock,German
+13,MAS,Felipe Massa,Brazilian
+17,WEB,Mark Webber,Australian
+18,BUT,Jenson Button,British
+20,VET,Sebastian Vettel,German
+30,MSC,Michael Schumacher,German
+37,DLR,Pedro de la Rosa,Spanish
+39,KAR,Narain Karthikeyan,Indian
+154,GRO,Romain Grosjean,French
+155,KOB,Kamui Kobayashi,Japanese
+807,HUL,Nico Hülkenberg,German
+808,PET,Vitaly Petrov,Russian
+811,SEN,Bruno Senna,Brazilian
+813,MAL,Pastor Maldonado,Venezuelan
+814,DIR,Paul di Resta,British
+815,PER,Sergio Pérez,Mexican
+816,DAM,Jérôme d'Ambrosio,Belgian
+817,RIC,Daniel Ricciardo,Australian
+818,VER,Jean-Éric Vergne,French
+819,PIC,Charles Pic,French
