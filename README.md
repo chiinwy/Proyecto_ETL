@@ -35,3 +35,5 @@ También vamos a ver el top4 de escuderias por puntos y la aportacion de cada un
 ![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/3865bffb-b4c7-46fa-a99f-40aebc964271)
 ![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/0e6a9efb-af90-47f7-9c2e-38a8d59be9cf)
 ![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/3d1d73fe-88b6-4b64-868a-e9f00550442a)
+
+Podemos observer que en el equipo Ferrari y en el equipo Lotus Renault, hay una gran diferencia entre un piloto y otro, y en el equipo Mclaren Mercedes vemos que la aportación de cada piloto es casi idéntica. Estos dos casos suelen ser raros ya que normalmente suele existir un primer piloto y un segundo piloto, como observamos en el equipo RedBull, en Ferrari y Lotus Renault vemos eso tambien pero con demasiada poca aportación del segundo piloto respecto al primero.
