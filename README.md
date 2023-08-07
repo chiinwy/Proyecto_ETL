@@ -20,3 +20,18 @@ https://www.kaggle.com/datasets/rohanrao/formula-1-world-championship-1950-2020?
 
 Por último, había que sacar la clasificación de las escuderías de ese año desde la siguiente URL.
 https://www.formula1.com/en/results.html/2012/team.html
+
+Teniendo ya todos los csv, hay que cargarlos en la base de datos, en este caso he utilizado SQL y esta es su estructura.
+
+<img width="595" alt="reverse engenier" src="https://github.com/chiinwy/Proyecto_ETL/assets/137778612/334f7c01-52f0-4b2a-b23e-aa635b39f105">
+
+### BONUS
+
+En el bonus tenemos que hacer algun análisis. En esta temporada podemos observar que en las 6 primeras carreras, hay 6 ganadores diferentes, dato que es muy anómalo para una temporada de F1
+
+También vamos a ver el top4 de escuderias por puntos y la aportacion de cada uno de sus pilotos.
+
+![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/b647ee6b-22ed-4144-b958-3d924cadd9d7)
+![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/3865bffb-b4c7-46fa-a99f-40aebc964271)
+![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/0e6a9efb-af90-47f7-9c2e-38a8d59be9cf)
+![download](https://github.com/chiinwy/Proyecto_ETL/assets/137778612/3d1d73fe-88b6-4b64-868a-e9f00550442a)
